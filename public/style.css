@@ -1,0 +1,198 @@
+header{
+    background-image: url(bg-image.jpg) !important; 
+    height: 100%vh;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    margin-bottom: 0 !important;
+
+}
+
+
+
+.navbar-brand > img{
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 60px!important;
+  height: 50px!important;
+  
+  
+}
+/* 
+.navbar-expand-lg .navbar-nav .nav-link {
+
+  margin-left: 10px;
+  margin-right: 10px;
+  
+ 
+} */
+
+.btn-warning{
+  margin-right: 10px;
+  margin-left: 10px;
+}
+.heading{
+  color:#D84315 ;
+}
+
+.heading > h1{
+  text-shadow: 2px 2px 2px black;
+}
+
+
+.heading > h2{
+  text-shadow: 2px 2px 2px black;
+}
+
+
+a.nav-link {
+    color: black !important;
+    font-weight: bold;
+    border-radius: 10px;
+    width: 120px;
+    height: auto;
+    text-align: center;
+   
+
+    
+}
+
+
+
+
+ul li a:hover{
+background-color:#D84315;
+color: white !important;
+
+
+}
+
+
+.fa-shopping-cart{
+font-size: 25px;
+margin-left: 10px;
+margin-right: 10px;
+}
+
+.fa-user{
+    font-size: 25px; 
+    margin-left: 10px;
+margin-right: 10px;
+}
+
+.fa-truck{
+  font-size: 25px;
+  margin-left: 10px;
+margin-right: 10px;
+  }
+
+
+
+.carousel-item > img{
+  margin-top: 20px;
+height:auto ;
+}
+.carousel-caption > h5{
+  font-size: 22px;
+  text-shadow: 4px 4px 4px black ;
+  font-style:oblique;
+  border-style: double;
+  font-weight:bold;
+  background-color: #ffc107;
+  margin: auto;
+  width: 50%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  
+
+}
+
+
+.card{
+  transition: 0.5s ease;
+  cursor: pointer;
+}
+.card-body > h5{
+  font-size: 22px;
+  text-shadow: 1px 1px 1px black ;
+  font-style:oblique;
+  font-weight:bold;
+}
+
+.card-body > p{
+  font-size: 15px;
+  font-weight: 500;
+}
+
+.card-text{
+  text-align: justify;
+}
+.card:hover{
+  transform:scale(1.1);
+  box-shadow: 5px 5px 15px rgba(0,0,0,0.6);
+}
+
+
+.btn-primary{
+  background-color:#D84315 !important ;
+  border-color: #D84315 !important;
+  width: 150px;
+  font-weight: bold!important;
+  
+}
+
+
+.fa {
+    padding: 15px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 2px 2px;
+    border-radius: 50%;
+  }
+  
+  .fa:hover {
+      opacity: 0.7 !important;
+      
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+  
+
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+  
+  .fa-instagram {
+    background: palevioletred;
+    color: white;
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+  .fa-whatsapp {
+    background: green;
+    color: white;
+    margin-left: 6px;
+    margin-right: 6px;
+  }
+
+footer{
+  font-weight: bold;
+}
